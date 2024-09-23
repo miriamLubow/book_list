@@ -1,0 +1,91 @@
+/*table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #343a40;
+    color: #fff;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #ffffff; 
+}
+
+tr:hover {
+    background-color: #7f8081;
+}
+
+td {
+    background-color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+Responsive Styles 
+@media (max-width: 600px) {
+    table {
+        display: block;
+        overflow-x: auto; 
+    }
+    
+    tr {
+        display: flex;
+        flex-direction: column; 
+    }
+
+    th, td {
+        display: block; 
+        text-align: right; 
+        padding: 10px;
+        border: none; 
+        border-bottom: 1px solid #ddd; 
+    }
+
+    th {
+        text-align: left; 
+    }
+}
+
+
+button.deleteAndEdit {
+    background-color: #a2a6a9; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s;
+    width: 55%;
+    margin: 5px;
+}
+
+button.deleteAndEdit:hover {
+    background-color: #4f4d4d; 
+    transform: scale(1.05);
+}
+
+button.Add {
+    background-color: #a2a6a9; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s;
+    width: 12%;
+}
+
+button.Add:hover {
+    background-color: #4f4d4d; 
+    transform: scale(1.05);
+}*/
+
